@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HB Audio gallery lite\n"
+"POT-Creation-Date: 2014-07-23 15:17+0530\n"
+"PO-Revision-Date: 2014-07-23 15:22+0530\n"
+"Last-Translator: Ali Akber <hbwebsol7@hbwebsol.com>\n"
+"Language-Team: HB Websol <info@hbwebsol.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: gallery/archive-ag_reviews.php:17
+msgid "Audio Gallery"
+msgstr "Galería de audio"
+
+#: gallery/archive-ag_reviews.php:27 gallery/gallery-function.php:868
+msgid "Title"
+msgstr "Título"
+
+#: gallery/archive-ag_reviews.php:29
+msgid "Author"
+msgstr "Autor"
+
+#: gallery/archive-ag_reviews.php:67
+msgid "Older reviews"
+msgstr "revisiones más antiguas"
+
+#: gallery/archive-ag_reviews.php:71
+msgid "Newer reviews"
+msgstr "revisiones más recientes"
+
+#: gallery/audio-download.php:129
+msgid "This file is not exist!"
+msgstr ""
+
+#: gallery/gallery-function.php:225
+msgid "No audios selected"
+msgstr ""
+
+#: gallery/gallery-function.php:233
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s audios \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+
+#: gallery/gallery-function.php:245
+msgid "Bulk actions"
+msgstr "acciones a granel"
+
+#: gallery/gallery-function.php:247
+msgid "Delete audios"
+msgstr "Delete audios"
+
+#: gallery/gallery-function.php:251
+msgid "Apply"
+msgstr "aplicar"
+
+#: gallery/gallery-function.php:253
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: gallery/gallery-function.php:417
+msgid "No entries found"
+msgstr "No se encontraron entradas"
+
+#: gallery/gallery-function.php:445
+msgid "Upload function is active after post is published."
+msgstr "Función de carga está activa después de que se publicó después."
+
+#: gallery/gallery-function.php:621
+msgid ""
+"This plugin is lite version and only support single audio player. Audio "
+"Gallery Player, Audio download, Audio sharing and Scan files functions are "
+"not available in lite version."
+msgstr ""
+"Este plugin es la versión lite y sólo admite el reproductor de audio "
+"individual. Audio Galería Player, descarga de audio, compartir audio y "
+"escaneo de archivos no están disponibles en versión lite."
+
+#: gallery/gallery-function.php:622
+msgid "If you want to use these function, please download"
+msgstr "Si desea utilizar estas funciones, por favor descargue"
+
+#: gallery/gallery-function.php:644
+msgid "Shortcode"
+msgstr ""
+
+#: gallery/gallery-function.php:692
+msgid "Htaccess file cannot read!"
+msgstr ""
+
+#: gallery/gallery-function.php:864
+msgid "ID"
+msgstr ""
+
+#: gallery/gallery-function.php:866
+msgid "Filename"
+msgstr ""
+
+#: gallery/gallery.php:58
+msgid "HB Audio Gallery"
+msgstr ""
+
+#: gallery/gallery.php:60
+msgid "Gallery Review"
+msgstr ""
+
+#: gallery/gallery.php:62
+msgid "Add New"
+msgstr ""
+
+#: gallery/gallery.php:64
+msgid "Add New HB Audio Gallery"
+msgstr ""
+
+#: gallery/gallery.php:66
+msgid "Edit"
+msgstr ""
+
+#: gallery/gallery.php:68
+msgid "Edit HB Audio Gallery"
+msgstr ""
+
+#: gallery/gallery.php:70
+msgid "New HB Audio Gallery"
+msgstr ""
+
+#: gallery/gallery.php:72
+msgid "View"
+msgstr ""
+
+#: gallery/gallery.php:74
+msgid "View HB Audio Gallery"
+msgstr ""
+
+#: gallery/gallery.php:76
+msgid "Search HB Audio Gallery"
+msgstr ""
+
+#: gallery/gallery.php:78
+msgid "No HB Audio Gallery found"
+msgstr ""
+
+#: gallery/gallery.php:80
+msgid "No HB Audio Gallery found in Trash"
+msgstr ""
+
+#: gallery/gallery.php:82
+msgid "Parent HB Audio Gallery"
+msgstr ""
+
+#: gallery/gallery.php:114
+msgid "Gallery Detail"
+msgstr ""
+
+#: gallery/gallery.php:124
+msgid "Upload Audio Files "
+msgstr ""
+
+#: gallery/gallery.php:134
+msgid "Audio List"
+msgstr ""
+
+#: gallery/single-ag_reviews.php:31
+msgid "Title:"
+msgstr ""
+
+#: gallery/single-ag_reviews.php:33
+msgid "Author:"
+msgstr ""
+
+#: hb-audio-gallery.php:249 hb-audio-gallery.php:257
+#, php-format
+msgid "Impossible to create %s directory."
+msgstr ""
+
+#: hb-audio-gallery.php:301
+msgid "Audio Files"
+msgstr ""

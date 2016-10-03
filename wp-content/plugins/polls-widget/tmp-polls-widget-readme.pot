@@ -1,0 +1,469 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Poll"
+msgstr ""
+
+#. Short description.
+msgid ""
+"WordPress Polls plugin is an wonderful tool for creating polls and survey forms for your visitors. \n"
+"You can use our polls on widgets, posts and pages."
+msgstr ""
+
+#. Screenshot description.
+msgid "<strong><a href=\"https://wordpress.org/plugins/polls-widget/\">WordPress Poll</a></strong> Front-end"
+msgstr ""
+
+#. Screenshot description.
+msgid "<strong>WordPress Poll</strong> Back-end(Polls)"
+msgstr ""
+
+#. Screenshot description.
+msgid "<strong>WordPress Poll</strong> Back-end(Polls design)"
+msgstr ""
+
+#. Screenshot description.
+msgid "<strong>WordPress Poll</strong> Front-end"
+msgstr ""
+
+#. Screenshot description.
+msgid "<strong>WordPress Polls</strong> Front-end"
+msgstr ""
+
+#. Found in description header.
+msgid "Features of WordPress Polls plugin"
+msgstr ""
+
+#. Found in description header.
+msgid "The features of WordPress Polls Pro"
+msgstr ""
+
+#. Found in description header.
+msgid "View our WordPress Polls plugin Demo page:"
+msgstr ""
+
+#. Found in description header.
+msgid "If you found any bug in our WordPress Polls plugin or have a question contact us at support@wpdevart.com."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Fully Responsive WordPress Polls</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Easy install and use</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>WordPress Polls plugin works perfectly with all versions of WordPress</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Ability to use WordPress Polls on pages and posts</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Ability to use shortcode button for adding Polls on your pages and posts</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Ability to use WordPress Polls on sidebars</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Ability to use more then one survey form on widgets, create as many Polls as you need</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Unlimited number of Polls</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Ability to add images</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>WordPress posts editor for Polls questions</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Polls with Single choice answers</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Ability to set poll Main width</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Ability to set poll Main height</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Ability to set Full width option for poll</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Live preview</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>SEO friendly WordPress Polls</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>User friendly back-end for WordPress Polls plugin</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Tested on popular WordPress themes</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Polls with Multiple choice answers</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Built in 7 themes</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Ability to set Polls answers position</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Ability to set Polls answers fonts</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Ability to set Polls answers colors</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Ability to set Polls Border parameters</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Ability to set Polls count parameters</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Ability to set Polls hover parameters</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Poll with fully design customization</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Premium support</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"It's not easy to create WordPress Polls for website without coding knowledge. That's we done our best to help WordPress users and developers to create WordPress Polls easily and quickly.Our WordPress Polls plugin is the best way to create Polls and survey forms for your website.\n"
+"WordPress Polls plugin have a lot of features that you will like. Here are some of features of our WordPress Polls plugin."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You can upgrade WordPress Polls plugin to <a href=\"http://wpdevart.com/wordpress-Polls-plugin\">WordPress Polls Pro</a> to add more features."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://pollsdemo.wpdevart.com/\">WordPress Polls plugin Demo</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"WordPress Polls plugin is an awesome tool to understand your visitors opinion. You can use this Poll plugin to know what your users think about your \n"
+"website new design or what kind of stories they like. \n"
+"There are a lot of websites which use poll and survey form to collect information from their users. We think that poll is very important tool for every website. \n"
+"Create poll to understand what your users exactly want.\n"
+"Your WordPress Polls plugin have strong functionality. Your users even have choice for poll with Multiple answers. \n"
+"You can add the same poll on widget and in post or page. You can even use the same poll on different widgets. But the most\n"
+"attractive side of our poll consists in the fact that our poll is user friendly and easy to use.\n"
+"You can build a poll and poll theme easy and quickly.\n"
+"With our poll your visitors can easily demonstrate their opinion.\n"
+"Our poll plugin have a lot of features. One of our poll features is uses of WordPress posts/pages editor."
+msgstr ""
+
+#. Found in description paragraph, installation paragraph.
+msgid "We also recommend you to take a look for this useful plugins - <a href=\"https://wordpress.org/plugins/coming-soon-page/\">WordPress Coming Soon</a>, <a href=\"https://wordpress.org/plugins/like-box\">WordPress Facebook like box</a>, <a href=\"https://wordpress.org/plugins/youtube-video-player\">WordPress YouTube plugin</a>, <a href=\"https://wordpress.org/plugins/widget-countdown\">WordPress Countdown plugin</a>, <a href=\"https://wordpress.org/plugins/comments-from-facebook\">WordPress Facebook comments</a> ."
+msgstr ""
+
+#. Found in installation header.
+msgid "First download the WordPress Polls plugin ZIP file."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Log in to your website administration panel.   "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Then go to Plugins page Add New &gt; Upload Plugin .    "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click \"Choose file\" then select the - <a href=\"https://wordpress.org/plugins/polls-widget/\">WordPress Poll plugin</a> zip file. "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Then Install and activate the plugin.     "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Then, from the left panel of Dashboard, click on the <strong>Polls</strong> icon to add and customize Polls"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Installing the <strong>WordPress Polls plugin</strong>"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "That's all, now you can build Polls and Survey forms. If any problem occurs, contact us at <a href=\"mailto:support@wpdevart.com\">support@wpdevart.com</a>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial version."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed - 'console' is undefined"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fixed notices"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I build a poll?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I create poll themes?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I add the same poll in different pages?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I add poll in pages/posts?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I add poll on widget?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I create poll with images?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I create poll with movies?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Our WordPress Poll plugin is user friendly, but here you can see some frequently asked questions that will help you build polls."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Go to your administration panel, click on the \"Polls\" from your admin panel.\n"
+"Then click on \"Polls Manager\", click on \"Add New\" button and then add poll name.\n"
+"Type poll question and create answers for your poll."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Go to your administration panel, click on the \"Polls\" from your admin panel.\n"
+"Then click on \"Polls Themes\", click on \"Add New\" button and then add poll theme name.\n"
+"After that set you poll theme and save it."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes. You can even add the same poll on different widgets and posts at the same time."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"First of all you need to create poll and poll theme. Then you must go to your post/page and add poll clicking on poll shortcode from your post/page editor.\n"
+"After that you'll see a window, choose your poll and then choose theme for your poll."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Go to your widgets page, then add our <a href=\"https://wordpress.org/plugins/polls-widget/\">WordPress Poll plugin</a> widget to your sidebar.\n"
+"After that choose your poll and then choose theme for your poll."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, you can. For adding images you can use WordPress posts and pages editor. It's very simple."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, that's not a problem too."
+msgstr ""
+
+#. Found in faq paragraph, remaining content paragraph.
+msgid "We also recommend you to take a look for this useful plugins - <a href=\"https://wordpress.org/plugins/coming-soon-page/\">WordPress Coming Soon</a>, <a href=\"https://wordpress.org/plugins/like-box\">WordPress Facebook like box</a>, <a href=\"https://wordpress.org/plugins/youtube-video-player\">WordPress YouTube</a>, <a href=\"https://wordpress.org/plugins/widget-countdown\">WordPress Countdown plugin</a>, <a href=\"https://wordpress.org/plugins/comments-from-facebook\">WordPress Facebook comments</a> ."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Other Notes"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Creating WordPress Polls"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "[WordPress Polls](https://wordpress.org/plugins/polls-widget/) design"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Add Polls to posts and pages using Polls shortcode button. Select the created poll, then choose the theme."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Add Polls to sidebar using Polls widgets. Add Polls widget, then select the poll and choose the poll theme."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Poll name - Type here Poll name."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Question - Type here Poll question. You can use images and edit your question text using WordPress standard posts editor."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Choose the answer type - Click on Multiple answers to choose Poll with Multiple choice answers or click on single answers to choose Poll with Single choice answers."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Answers - Type here Poll answers. Type the answer, then click anywhere and the new answer field will appear. Click remove to remove any answer you need. "
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Poll theme name - Type here the Poll theme name."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Poll Width - Select the Poll width. Select 100% to set full with option for Poll. Then Select the Poll width when hovering."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Poll height - Select the Poll height. Then select the Poll height when hovering.   "
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Poll background color - Select the Poll background color. Then select the Poll background color when hovering."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Poll background opacity - Select the Poll background opacity. Then select the Poll background opacity when hovering."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Distance among Poll answers - Select distance among Poll answers."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Answer font size - Select the Poll answer font size. Then select the Poll answer font size when hovering.   "
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Answer distance from top - Select the Poll answer distance from top. Then select the Poll answer distance from top when hovering.   "
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Answer distance from left - Select the Poll answer distance from left. Then select the Poll answer distance from left when hovering.   "
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Background color corresponding counts - Select the Poll background color corresponding counts. Then select the Poll background color corresponding counts when hovering."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Answer color - Select the Poll answer color.  Then select the Poll answer color when hovering."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Answer font family - Choose the Poll answer font family. Then select the Poll answer font family when hovering."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Answer font style - Select the Poll answer font style. Then select the Poll answer font style when hovering."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Poll border width - Select the Poll border width. Then select the Poll border width when hovering."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Poll border Radius - Select the Poll border Radius. Then select the Poll border Radius when hovering."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Poll border type - Choose the Poll Border type. Then select the Poll Border type when hovering."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Poll border color - Select the Poll border color. Then select the Poll border color when hovering."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Show count option - If you want to show count options then select yes. Then select the same option for hovering."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Count font size - Select the Poll count font size. Then select the Poll count font size when hovering."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Count distance from left - Select the Poll count distance from left. Then select the Poll count distance from left when hovering."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Count distance from top - Select the Poll count distance from top. Then select the Poll count distance from top when hovering."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Count text color - Select the Poll count text color. Then select the Poll count text color when hovering."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Count text font family - Select the Poll count text font family. Then select the Poll count text font family when hovering."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Count text font style - Select the Poll count text font style. Then select the Poll count text font style when hovering.       "
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Then just save the Poll that you created."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "The second option page is \"Polls design\". On this page you can create design for your WordPress Polls."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid ""
+"There are two global options, simple design options and hover design options. When you change the simple design option the hover design option will\n"
+"change automatically, but when you change the hover design option the simple design option doesn't change. We add this functionality for \n"
+"users convenience."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Save the theme that you created and then use it for building WordPress Polls."
+msgstr ""

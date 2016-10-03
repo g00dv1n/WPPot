@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NewspaperTimes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-04 07:57+0530\n"
+"PO-Revision-Date: 2011-07-04 07:59+0530\n"
+"Last-Translator: Matt Kaludi <magazine3.mail@gmail.com>\n"
+"Language-Team: Magazine3 <magazine3.mail@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: E:\\wamp\\www\\m3\\wp-content\\themes\\newspapertimes\n"
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/404.php:21
+msgid "*404* - Not Found"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/404.php:25
+msgid "Sorry, we can't find the content you're looking for at this URL. Please navigate from the navigation menu on top or try searching below.."
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/404.php:37
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/header.php:87
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/searchform.php:3
+msgid " Search News - Type Keyword & Hit Enter"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/archive.php:25
+msgid "Tag archive for"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/archive.php:29
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/archive.php:34
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/archive.php:39
+msgid "Date archive for"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/archive.php:43
+msgid "Blog Archives"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/archive.php:57
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/page.php:30
+msgid "Not Found"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/archive.php:87
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/category.php:84
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/search.php:45
+msgid "By"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/archive.php:87
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/category.php:84
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/page.php:18
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/search.php:45
+msgid "On"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/category.php:48
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/index.php:33
+msgid "Published"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/category.php:48
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/index.php:33
+msgid "ago"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/comments.php:11
+msgid "Displaying"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/comments.php:12
+msgid "Have Your Say"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/comments.php:34
+msgid "Leave a comment"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/comments.php:45
+msgid "Your Name"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/comments.php:49
+msgid "Your Email"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/comments.php:55
+msgid "Your Website"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/comments.php:61
+msgid "You can use these html tags"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/comments.php:62
+msgid "Submit Comment"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:429
+msgid "Page"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:469
+msgid "Previous"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:473
+msgid "Next"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:629
+msgid "previous"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:645
+msgid "First"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:725
+msgid "next"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:744
+msgid "The primary widget area on Homepage"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:754
+msgid "This sidebar will appear on article posts and pages"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:764
+msgid "This sidebar will appear on categories, tags & archive pages"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:776
+msgid "This is small left sidebar"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:790
+msgid "This is small right sidebar"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:1042
+msgid "Top Menu"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:1045
+msgid "Main Menu"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:1047
+msgid "Secondory Menu"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:1050
+msgid "Footer Menu"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:1056
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:1062
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:1069
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:1074
+msgid " Go to DASHBOARD > Appearance > Menus to set up the menu."
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:1113
+msgid "Advertisment Widget"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:1132
+msgid "Title: (optional)"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:1133
+msgid "Paste  Your Code Below:"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:1591
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/functions.php:3110
+msgid "Save Changes"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/header.php:3
+msgid "Category "
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/header.php:91
+msgid "Trending Topics"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/header.php:183
+msgid "Home"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/index.php:33
+msgid "by"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/page-archive.php:22
+msgid "Pages"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/page-archive.php:38
+msgid "By Month"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/page-archive.php:54
+msgid "By Category"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/page-archive.php:74
+msgid "Some users like to browse Article Archives"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/page-contact.php:459
+msgid "Thanks"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/page-contact.php:460
+msgid "Your email was successfully sent. I will be in touch soon."
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/page-contact.php:504
+msgid "There was an error submitting the form"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/page-contact.php:528
+msgid "Name"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/page-contact.php:556
+msgid "Email"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/page-contact.php:584
+msgid "Comments"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/page-contact.php:608
+msgid "Send a copy of this email to yourself"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/page-contact.php:624
+msgid "Send Email"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/page.php:16
+msgid "Posted By"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/page.php:18
+msgid "With"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/page.php:30
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/sidebar-archive.php:6
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/sidebar-post.php:6
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/sidebar.php:6
+msgid "Categories"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/sidebar-archive.php:7
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/sidebar-post.php:7
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/sidebar.php:7
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/single.php:65
+msgid "Tags"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/sidebar-archive.php:24
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/sidebar-post.php:24
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/sidebar.php:24
+#, php-format
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/single.php:14
+msgid "Published On"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/single.php:37
+msgid "Share This"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/single.php:114
+msgid "About the Author"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/single.php:143
+msgid "Related News"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/admin/color-core.php:214
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/admin/color-core.php:244
+msgid "Default options restored."
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/admin/color-core.php:291
+msgid "Options saved."
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/admin/color-core.php:334
+msgid "Color Options"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/includes/w.php:3
+msgid "Displays list of category with post numbers - Part of Magazine3 Theme"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/includes/w.php:4
+msgid "Category With Numbers"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/includes/w.php:36
+msgid "Twitter Username:"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/includes/w.php:40
+msgid "Widget Title:"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/includes/w.php:44
+msgid "Max tweets:"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/includes/w.php:55
+msgid "Scrollable Video Gallery - Part of Magazine3 Theme"
+msgstr ""
+
+#: E:\wamp\www\m3\wp-content\themes\newspapertimes/includes/w.php:57
+msgid "Video Gallery"
+msgstr ""
+
